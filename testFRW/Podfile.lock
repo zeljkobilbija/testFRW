@@ -1,0 +1,16 @@
+PODS:
+  - testFRW (0.0.1)
+
+DEPENDENCIES:
+  - testFRW (from `../testFRW`)
+
+EXTERNAL SOURCES:
+  testFRW:
+    :path: "../testFRW"
+
+SPEC CHECKSUMS:
+  testFRW: 6c9d8ef61f4f70aea8f626e6a0629ca380bba4b4
+
+PODFILE CHECKSUM: 609ea650a91ede062dc1b681079cd048d1cd4980
+
+COCOAPODS: 1.7.1
